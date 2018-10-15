@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u16_img {
+#u81_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:1340px;
   height:623px;
 }
-#u16 {
+#u81 {
   border-width:0px;
   position:absolute;
   left:22px;
@@ -28,7 +28,7 @@
   width:1340px;
   height:623px;
 }
-#u16_text {
+#u81_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u17 {
+#u82 {
   border-width:0px;
   position:absolute;
   left:260px;
@@ -45,7 +45,7 @@
   width:65px;
   height:17px;
 }
-#u17_input {
+#u82_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -58,10 +58,10 @@
   text-decoration:none;
   color:#000000;
 }
-#u17_input:disabled {
+#u82_input:disabled {
   color:grayText;
 }
-#u18_div {
+#u83_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -80,7 +80,7 @@
   font-style:normal;
   font-size:10px;
 }
-#u18 {
+#u83 {
   border-width:0px;
   position:absolute;
   left:203px;
@@ -92,7 +92,7 @@
   font-style:normal;
   font-size:10px;
 }
-#u18_text {
+#u83_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -100,7 +100,7 @@
   width:49px;
   word-wrap:break-word;
 }
-#u19_img {
+#u84_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -108,7 +108,7 @@
   width:19px;
   height:28px;
 }
-#u19 {
+#u84 {
   border-width:0px;
   position:absolute;
   left:313px;
@@ -116,7 +116,7 @@
   width:19px;
   height:28px;
 }
-#u19_text {
+#u84_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -124,7 +124,7 @@
   width:15px;
   word-wrap:break-word;
 }
-#u20_img {
+#u85_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -132,7 +132,7 @@
   width:19px;
   height:28px;
 }
-#u20 {
+#u85 {
   border-width:0px;
   position:absolute;
   left:692px;
@@ -140,7 +140,7 @@
   width:19px;
   height:28px;
 }
-#u20_text {
+#u85_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -148,7 +148,7 @@
   width:15px;
   word-wrap:break-word;
 }
-#u21_div {
+#u86_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -163,7 +163,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u21 {
+#u86 {
   border-width:0px;
   position:absolute;
   left:710px;
@@ -171,7 +171,7 @@
   width:341px;
   height:34px;
 }
-#u21_text {
+#u86_text {
   border-width:0px;
   position:absolute;
   left:2px;
