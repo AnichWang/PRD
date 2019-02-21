@@ -19,7 +19,7 @@
   left:21px;
   top:25px;
   width:933px;
-  height:204px;
+  height:226px;
 }
 #u14_img {
   border-width:0px;
@@ -236,7 +236,7 @@
   left:0px;
   top:0px;
   width:104px;
-  height:31px;
+  height:53px;
 }
 #u22 {
   border-width:0px;
@@ -244,13 +244,13 @@
   left:0px;
   top:60px;
   width:103px;
-  height:30px;
+  height:52px;
 }
 #u22_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:7px;
+  top:18px;
   width:99px;
   word-wrap:break-word;
 }
@@ -260,7 +260,7 @@
   left:0px;
   top:0px;
   width:153px;
-  height:31px;
+  height:53px;
 }
 #u23 {
   border-width:0px;
@@ -268,15 +268,14 @@
   left:103px;
   top:60px;
   width:152px;
-  height:30px;
+  height:52px;
 }
 #u23_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:18px;
+  width:148px;
   word-wrap:break-word;
 }
 #u24_img {
@@ -285,7 +284,7 @@
   left:0px;
   top:0px;
   width:151px;
-  height:31px;
+  height:53px;
 }
 #u24 {
   border-width:0px;
@@ -293,15 +292,14 @@
   left:255px;
   top:60px;
   width:150px;
-  height:30px;
+  height:52px;
 }
 #u24_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:18px;
+  width:146px;
   word-wrap:break-word;
 }
 #u25_img {
@@ -310,7 +308,7 @@
   left:0px;
   top:0px;
   width:529px;
-  height:31px;
+  height:53px;
 }
 #u25 {
   border-width:0px;
@@ -318,16 +316,15 @@
   left:405px;
   top:60px;
   width:528px;
-  height:30px;
+  height:52px;
   text-align:left;
 }
 #u25_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:2px;
+  width:524px;
   word-wrap:break-word;
 }
 #u26_img {
@@ -342,7 +339,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:90px;
+  top:112px;
   width:103px;
   height:114px;
 }
@@ -366,7 +363,7 @@
   border-width:0px;
   position:absolute;
   left:103px;
-  top:90px;
+  top:112px;
   width:152px;
   height:114px;
 }
@@ -390,7 +387,7 @@
   border-width:0px;
   position:absolute;
   left:255px;
-  top:90px;
+  top:112px;
   width:150px;
   height:114px;
 }
@@ -414,7 +411,7 @@
   border-width:0px;
   position:absolute;
   left:405px;
-  top:90px;
+  top:112px;
   width:528px;
   height:114px;
   text-align:left;
