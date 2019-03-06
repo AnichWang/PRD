@@ -77,6 +77,14 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .placeholder {
 }
 .button {
@@ -92,4 +100,6 @@
 .box_2 {
 }
 .image {
+}
+.table_cell {
 }
