@@ -1,0 +1,43 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:592px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u860_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:538px;
+  height:147px;
+}
+#u860 {
+  border-width:0px;
+  position:absolute;
+  left:55px;
+  top:64px;
+  width:537px;
+  height:146px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+#u860_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:533px;
+  word-wrap:break-word;
+}
