@@ -1783,9 +1783,10 @@
 #u805_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:10px;
-  width:252px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u806_img {
@@ -1856,9 +1857,10 @@
 #u808_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:10px;
-  width:252px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u809_img {
@@ -1929,9 +1931,10 @@
 #u811_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:10px;
-  width:252px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u812_img {
@@ -2002,9 +2005,10 @@
 #u814_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:7px;
-  width:252px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u815_img {
