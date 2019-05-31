@@ -1571,6 +1571,9 @@
   top:166px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u399_text {
@@ -1629,6 +1632,9 @@
   top:166px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u401_text {
@@ -1654,6 +1660,9 @@
   top:241px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u402_text {
@@ -1712,6 +1721,9 @@
   top:285px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u404_text {
@@ -1737,6 +1749,9 @@
   top:423px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u405_text {
@@ -1795,6 +1810,9 @@
   top:423px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u407_text {
@@ -1820,6 +1838,9 @@
   top:664px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u408_text {
@@ -1878,6 +1899,9 @@
   top:664px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u410_text {
@@ -1903,6 +1927,9 @@
   top:919px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u411_text {
@@ -1928,6 +1955,9 @@
   top:919px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u412_text {
@@ -1986,6 +2016,9 @@
   top:981px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u414_text {
@@ -2011,6 +2044,9 @@
   top:981px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u415_text {
@@ -2069,6 +2105,9 @@
   top:1046px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u417_text {
@@ -2094,6 +2133,9 @@
   top:1046px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u418_text {
@@ -2152,6 +2194,9 @@
   top:1108px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u420_text {
@@ -2177,6 +2222,9 @@
   top:1108px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u421_text {
@@ -3010,6 +3058,9 @@
   top:1480px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u445_text {
@@ -3035,6 +3086,9 @@
   top:1480px;
   width:13px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u446_text {
@@ -3083,7 +3137,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:17px;
+  width:18px;
   height:30px;
 }
 #u448 {
@@ -3091,8 +3145,11 @@
   position:absolute;
   left:547px;
   top:1545px;
-  width:17px;
+  width:18px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u448_text {
@@ -3100,7 +3157,7 @@
   position:absolute;
   left:2px;
   top:4px;
-  width:13px;
+  width:14px;
   word-wrap:break-word;
 }
 #u449_div {
@@ -3141,16 +3198,19 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:17px;
+  width:18px;
   height:30px;
 }
 #u450 {
   border-width:0px;
   position:absolute;
-  left:723px;
+  left:716px;
   top:1545px;
-  width:17px;
+  width:18px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:11px;
 }
 #u450_text {
@@ -3158,6 +3218,6 @@
   position:absolute;
   left:2px;
   top:4px;
-  width:13px;
+  width:14px;
   word-wrap:break-word;
 }
